@@ -1,6 +1,6 @@
 .jumbotron {
   background-image: url("https://images.unsplash.com/photo-1553096101-a3f068e65db8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=882&q=80");
-  background-blend-mode: lighten;
+  background-blend-mode: soft-light;
   background-repeat: no-repeat;
   background-position: center;
   -webkit-background-size: cover;
