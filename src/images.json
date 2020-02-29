@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Mini",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1553096101-a3f068e65db8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=882&q=80"
+  },
+  {
+    "id": 2,
+    "name": "McLaren",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1542362567-b07e54358753?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Audi",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1532974297617-c0f05fe48bff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80"
+  },
+  {
+    "id": 4,
+    "name": "BMW",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1541443131876-44b03de101c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Aston Martin",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1549927681-0b673b8243ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Volkswagen",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1531850959096-cfbb6f26c5a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Austin Cooper",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1557358070-ef6ae6f84629?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1932&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Mercedes",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1501066927591-314112b5888e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Lamboghini",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1546518086-03ef264c9885?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1301&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Bugatti",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Porsche",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1562141959-f3be4985c59a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Ferrari",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1544218159-bf0f188285fe?ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "id": 13,
+    "name": "Bentley",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1555596899-e7b9da3a2505?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+  },
+  {
+    "id": 14,
+    "name": "Toyota",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1581285228317-f833e3c635b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+  },
+  {
+    "id": 15,
+    "name": "Tesla",
+    "clicked": false,
+    "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80"
+  },
+  {
+    "id": 16,
+    "name": "WTF",
+    "clicked": false,
+    "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F_slVFtEzHw4g%2FTUrwlb7aY5I%2FAAAAAAAAArY%2FxGDitqGE7Yw%2Fs1600%2FUglyAssfiat-multipla.jpg&f=1&nofb=1"
+  }
+]
